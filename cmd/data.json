@@ -1,0 +1,3058 @@
+{
+  "Dairy": {
+    "items": [
+      {
+        "id": "950a4d69-5b58-4ff5-bba0-78ca238a6be4",
+        "name": "Butter",
+        "contents": {
+          "water": 15,
+          "sugar": 0.6,
+          "fat": 83,
+          "dry_matter": 85
+        },
+        "calories_100g": 741
+      },
+      {
+        "id": "6c5cfd42-8c5c-41ec-adf4-c6205928358d",
+        "name": "Buttermilch",
+        "contents": {
+          "water": 91,
+          "sugar": 4,
+          "fat": 0.5,
+          "dry_matter": 9
+        },
+        "calories_100g": 36
+      },
+      {
+        "id": "e8b565a1-2f42-43e6-bcbc-8f746327f78d",
+        "name": "Creme Double",
+        "contents": {
+          "water": 53,
+          "sugar": 3,
+          "fat": 42,
+          "dry_matter": 47
+        },
+        "calories_100g": 402
+      },
+      {
+        "id": "e1aeb5ae-8509-4252-89a8-02d300802524",
+        "name": "Creme fraiche",
+        "contents": {
+          "water": 63,
+          "sugar": 6.6,
+          "fat": 27.299999,
+          "dry_matter": 37
+        },
+        "calories_100g": 277
+      },
+      {
+        "id": "8a9f03fe-26f6-4622-b53c-272cec8c3d7a",
+        "name": "Frischkäse. Doppelrahm",
+        "contents": {
+          "water": 53,
+          "sugar": 2.5,
+          "fat": 32,
+          "dry_matter": 47
+        },
+        "calories_100g": 335
+      },
+      {
+        "id": "1068f317-012a-4284-8a50-25e56e527556",
+        "name": "Gorgonzola",
+        "contents": {
+          "water": 44,
+          "sugar": 0,
+          "fat": 31.200001,
+          "dry_matter": 56
+        },
+        "calories_100g": 356
+      },
+      {
+        "id": "b055df37-57ef-4b1e-8489-906854809d81",
+        "name": "Hafermilch",
+        "contents": {
+          "water": 90,
+          "sugar": 5,
+          "fat": 1.5,
+          "dry_matter": 10
+        },
+        "calories_100g": 42
+      },
+      {
+        "id": "d1a89bf1-8a33-4cac-ba2a-bb0ac6e7ab6d",
+        "name": "Joghurt 3.5%",
+        "contents": {
+          "water": 86.5,
+          "sugar": 5.3,
+          "fat": 3.5,
+          "dry_matter": 13.5
+        },
+        "calories_100g": 70
+      },
+      {
+        "id": "a6382800-6051-42fe-9eff-3a9701d07a43",
+        "name": "Joghurt griechisch",
+        "contents": {
+          "water": 82,
+          "sugar": 3.7,
+          "fat": 10,
+          "dry_matter": 18
+        },
+        "calories_100g": 118
+      },
+      {
+        "id": "1fd740b9-0248-44c3-96b9-230deab18603",
+        "name": "Joghurtpulver",
+        "contents": {
+          "water": 8.7,
+          "sugar": 53,
+          "fat": 0.8,
+          "dry_matter": 91.300003
+        },
+        "calories_100g": 373
+      },
+      {
+        "id": "dd1acab2-5d4e-4d4f-92bf-426feaec11cc",
+        "name": "Kaffeesahne 10%",
+        "contents": {
+          "water": 82,
+          "sugar": 4,
+          "fat": 10,
+          "dry_matter": 18
+        },
+        "calories_100g": 117
+      },
+      {
+        "id": "de20c026-aa25-49a2-af04-013f62b3987f",
+        "name": "Kaffeesahne 7.5%",
+        "contents": {
+          "water": 74.800003,
+          "sugar": 4,
+          "fat": 7.5,
+          "dry_matter": 25.200001
+        },
+        "calories_100g": 96
+      },
+      {
+        "id": "29efb4e9-fb9c-4bfa-853f-13afbb92dffb",
+        "name": "Karamell Kondensmilch",
+        "contents": {
+          "water": 33,
+          "sugar": 55,
+          "fat": 6,
+          "dry_matter": 67
+        },
+        "calories_100g": 299
+      },
+      {
+        "id": "473c9ba3-a29b-4db5-af9c-fa50f632a26b",
+        "name": "Kefir",
+        "contents": {
+          "water": 89,
+          "sugar": 4.1,
+          "fat": 2,
+          "dry_matter": 11
+        },
+        "calories_100g": 50
+      },
+      {
+        "id": "bda9d364-361d-4139-950f-4f29a93c08f1",
+        "name": "Kokosmilch",
+        "contents": {
+          "water": 70,
+          "sugar": 3.3,
+          "fat": 24,
+          "dry_matter": 30
+        },
+        "calories_100g": 230
+      },
+      {
+        "id": "275dd394-2cbb-4715-8771-dc92ebb15595",
+        "name": "Kondensmilch. gezuckert. 10%",
+        "contents": {
+          "water": 26,
+          "sugar": 54.299999,
+          "fat": 10,
+          "dry_matter": 74
+        },
+        "calories_100g": 343
+      },
+      {
+        "id": "92a42908-7f9f-4159-a8e2-b70199beec97",
+        "name": "Magermilchpulver",
+        "contents": {
+          "water": 2,
+          "sugar": 51.5,
+          "fat": 0.9,
+          "dry_matter": 98
+        },
+        "calories_100g": 368
+      },
+      {
+        "id": "4ef6fe77-6573-4fbd-a120-3685d6252030",
+        "name": "Magerquark",
+        "contents": {
+          "water": 81,
+          "sugar": 4,
+          "fat": 0.2,
+          "dry_matter": 19
+        },
+        "calories_100g": 73
+      },
+      {
+        "id": "1c2a3148-4b34-465a-a6b4-57f3cf98bc7b",
+        "name": "Mandelmilch",
+        "contents": {
+          "water": 94.400002,
+          "sugar": 0.5,
+          "fat": 3.3,
+          "dry_matter": 5.6
+        },
+        "calories_100g": 36
+      },
+      {
+        "id": "24d1689a-98bb-48e2-81a1-75723d0c5dac",
+        "name": "Mascarpone",
+        "contents": {
+          "water": 52,
+          "sugar": 4.4,
+          "fat": 39.799999,
+          "dry_matter": 48
+        },
+        "calories_100g": 389
+      },
+      {
+        "id": "5bbdaaa3-0159-4074-8cf4-66422400f9f4",
+        "name": "Milch 3.8%. laktosefrei",
+        "contents": {
+          "water": 86,
+          "sugar": 4.8,
+          "fat": 3.8,
+          "dry_matter": 14
+        },
+        "calories_100g": 67
+      },
+      {
+        "id": "b17adffb-da78-4552-a645-650f18c26307",
+        "name": "Milch. 1.5% Fett",
+        "contents": {
+          "water": 90.300003,
+          "sugar": 4.9,
+          "fat": 1.5,
+          "dry_matter": 9.7
+        },
+        "calories_100g": 46
+      },
+      {
+        "id": "536b5589-9994-42c3-9a65-05c3af24680e",
+        "name": "Philadelphia",
+        "contents": {
+          "water": 70,
+          "sugar": 4.3,
+          "fat": 21,
+          "dry_matter": 30
+        },
+        "calories_100g": 225
+      },
+      {
+        "id": "bb111261-7f23-43e4-9bfb-dc022e9b4b7f",
+        "name": "Quark 20%",
+        "contents": {
+          "water": 79.5,
+          "sugar": 3,
+          "fat": 5.1,
+          "dry_matter": 20.5
+        },
+        "calories_100g": 108
+      },
+      {
+        "id": "82c224fe-f19b-4e68-8cc1-cee7ee78465c",
+        "name": "Quark 40%",
+        "contents": {
+          "water": 71,
+          "sugar": 4,
+          "fat": 12,
+          "dry_matter": 29
+        },
+        "calories_100g": -1
+      },
+      {
+        "id": "f0982a66-c3f4-4e69-a714-c317c62fbeae",
+        "name": "Rama-Cremefine 31%",
+        "contents": {
+          "water": 61.799999,
+          "sugar": 3.5,
+          "fat": 31,
+          "dry_matter": 38.200001
+        },
+        "calories_100g": 323
+      },
+      {
+        "id": "4043bc9f-345d-4acf-9671-38f58110c947",
+        "name": "Ricotta",
+        "contents": {
+          "water": 73.199997,
+          "sugar": 3.4,
+          "fat": 12.3,
+          "dry_matter": 26.799999
+        },
+        "calories_100g": 162
+      },
+      {
+        "id": "e53213e9-bf4d-4a9d-a0c6-6da502105a05",
+        "name": "Sahne 30% Fett",
+        "contents": {
+          "water": 64,
+          "sugar": 3.2,
+          "fat": 30,
+          "dry_matter": 36
+        },
+        "calories_100g": 288
+      },
+      {
+        "id": "d5f82a75-d1a8-4706-a74a-b8fc5935adbc",
+        "name": "Sahne 30%. laktosefrei",
+        "contents": {
+          "water": 64.300003,
+          "sugar": 3.4,
+          "fat": 30,
+          "dry_matter": 35.700001
+        },
+        "calories_100g": 293
+      },
+      {
+        "id": "579487ca-9a42-498e-8132-c50ada50bd41",
+        "name": "Sahne 35% Fett",
+        "contents": {
+          "water": 59.799999,
+          "sugar": 3,
+          "fat": 35,
+          "dry_matter": 40.200001
+        },
+        "calories_100g": 336
+      },
+      {
+        "id": "ad989106-7e3d-4db8-b657-c199bef6df92",
+        "name": "Sauerrahm",
+        "contents": {
+          "water": 78.199997,
+          "sugar": 0.16,
+          "fat": 20.959999,
+          "dry_matter": 21.799999
+        },
+        "calories_100g": 214
+      },
+      {
+        "id": "5d27b491-9ec8-4fa2-aa7f-eca3c2790d43",
+        "name": "Saure Sahne. 10% Fett",
+        "contents": {
+          "water": 83.199997,
+          "sugar": 2.8,
+          "fat": 10,
+          "dry_matter": 16.799999
+        },
+        "calories_100g": 117
+      },
+      {
+        "id": "029bb984-a086-42c9-8f4a-79b4984bd825",
+        "name": "Schafmilch",
+        "contents": {
+          "water": 83,
+          "sugar": 0,
+          "fat": 7,
+          "dry_matter": 17
+        },
+        "calories_100g": 108
+      },
+      {
+        "id": "03991c24-f873-479d-af47-c32ba80a8e9e",
+        "name": "Schafskäse",
+        "contents": {
+          "water": 59,
+          "sugar": 0,
+          "fat": 19,
+          "dry_matter": 41
+        },
+        "calories_100g": 236
+      },
+      {
+        "id": "da45be52-2fe3-464a-ae0c-6d23041595f6",
+        "name": "Schlagfix Mascarpone",
+        "contents": {
+          "water": 59.5,
+          "sugar": 0.6,
+          "fat": 25,
+          "dry_matter": 40.5
+        },
+        "calories_100g": 278
+      },
+      {
+        "id": "16d8d784-03c6-4465-a950-89c539732090",
+        "name": "Schmand",
+        "contents": {
+          "water": 72,
+          "sugar": 0,
+          "fat": 20,
+          "dry_matter": 28
+        },
+        "calories_100g": 205
+      },
+      {
+        "id": "332c8117-7036-479b-88a1-0e195a9bb461",
+        "name": "Sojajoghurt",
+        "contents": {
+          "water": 99.800003,
+          "sugar": 1.2,
+          "fat": 1.8,
+          "dry_matter": 0.2
+        },
+        "calories_100g": 94
+      },
+      {
+        "id": "8e4ace07-fcb5-428a-b4a3-bd6ea73f7df3",
+        "name": "Sojamilch",
+        "contents": {
+          "water": 94,
+          "sugar": 4,
+          "fat": 1.8,
+          "dry_matter": 6
+        },
+        "calories_100g": 54
+      },
+      {
+        "id": "9a1cae3f-3bd1-4c10-b29c-6bc1415fe83e",
+        "name": "Sojasahne",
+        "contents": {
+          "water": 94,
+          "sugar": 3.2,
+          "fat": 16.6,
+          "dry_matter": 6
+        },
+        "calories_100g": 165
+      },
+      {
+        "id": "49c8eea8-a7a6-45bc-8a9b-8d032309a287",
+        "name": "Vollmilch",
+        "contents": {
+          "water": 87,
+          "sugar": 4.8,
+          "fat": 3.5,
+          "dry_matter": 13
+        },
+        "calories_100g": 64
+      },
+      {
+        "id": "7412d3d3-7d4e-4d63-b88c-f58796fdcfbc",
+        "name": "Vollmilchpulver",
+        "contents": {
+          "water": 2,
+          "sugar": 40,
+          "fat": 26.299999,
+          "dry_matter": 98
+        },
+        "calories_100g": 494
+      },
+      {
+        "id": "74ea6a28-3061-4f40-976d-6b04b49da8f9",
+        "name": "Ziegenmilch",
+        "contents": {
+          "water": 86.599998,
+          "sugar": 4.5,
+          "fat": 4.1,
+          "dry_matter": 13.4
+        },
+        "calories_100g": 69
+      }
+    ]
+  },
+  "Sugar": {
+    "items": [
+      {
+        "id": "5d3725bc-a32f-4b3d-8d4a-97fa52281d27",
+        "name": "Dextrose",
+        "contents": {
+          "water": 0,
+          "sugar": 91.5,
+          "fat": 0,
+          "dry_matter": 100
+        },
+        "calories_100g": 366
+      },
+      {
+        "id": "b437773a-e16a-4dd8-9b7f-d05fa493a2ec",
+        "name": "Erythrit",
+        "contents": {
+          "water": 1,
+          "sugar": 0,
+          "fat": 0,
+          "dry_matter": 99
+        },
+        "calories_100g": 20
+      },
+      {
+        "id": "b5751cb4-1174-4d64-b634-297d314c6b8f",
+        "name": "Ethyrit",
+        "contents": {
+          "water": 0,
+          "sugar": 0,
+          "fat": 0,
+          "dry_matter": 100
+        },
+        "calories_100g": 0
+      },
+      {
+        "id": "1b2270d2-9fa2-4ea7-a790-f5cb965f771a",
+        "name": "Honig",
+        "contents": {
+          "water": 24,
+          "sugar": 73.599998,
+          "fat": 0,
+          "dry_matter": 76
+        },
+        "calories_100g": 306
+      },
+      {
+        "id": "df9b152a-ace0-413f-95fc-559eb4990aa3",
+        "name": "Inulin",
+        "contents": {
+          "water": 0,
+          "sugar": 0,
+          "fat": 0,
+          "dry_matter": 100
+        },
+        "calories_100g": 210
+      },
+      {
+        "id": "cbe8dd7e-2942-41af-86fe-ba19e18f5cb8",
+        "name": "Kokosblütenzucker",
+        "contents": {
+          "water": 4.5,
+          "sugar": 94,
+          "fat": 0.5,
+          "dry_matter": 95.5
+        },
+        "calories_100g": 384
+      },
+      {
+        "id": "9d978332-cfa0-4e79-b440-af20918cca46",
+        "name": "Maltodextrin",
+        "contents": {
+          "water": 0,
+          "sugar": 100,
+          "fat": 0,
+          "dry_matter": 100
+        },
+        "calories_100g": 400
+      },
+      {
+        "id": "e76775e5-da94-490d-a985-f1095b0ed07a",
+        "name": "Stevia Pulver",
+        "contents": {
+          "water": 7.2,
+          "sugar": 6.9,
+          "fat": 0,
+          "dry_matter": 92.800003
+        },
+        "calories_100g": 0
+      },
+      {
+        "id": "7e3c43be-100b-4f35-abcf-c157385f6ba7",
+        "name": "Süßstoff flüssig",
+        "contents": {
+          "water": 99.900002,
+          "sugar": 0,
+          "fat": 0,
+          "dry_matter": 0.1
+        },
+        "calories_100g": 1
+      },
+      {
+        "id": "6ffc3375-12fc-4b6c-8eb1-08b7980e6391",
+        "name": "Trockenglukose",
+        "contents": {
+          "water": 4,
+          "sugar": 25,
+          "fat": 0,
+          "dry_matter": 96
+        },
+        "calories_100g": 386
+      },
+      {
+        "id": "81f9d4df-1e4c-408a-8de7-b1afc033ab0b",
+        "name": "Vanillezucker",
+        "contents": {
+          "water": 0,
+          "sugar": 100,
+          "fat": 0,
+          "dry_matter": 100
+        },
+        "calories_100g": 405
+      },
+      {
+        "id": "00b65d9c-5015-4eed-8002-3b0cf64d770d",
+        "name": "Xylith",
+        "contents": {
+          "water": 1,
+          "sugar": 0,
+          "fat": 0,
+          "dry_matter": 99
+        },
+        "calories_100g": 240
+      },
+      {
+        "id": "364a898a-8986-4cd0-b39f-5c73ba940951",
+        "name": "Zucker, braun",
+        "contents": {
+          "water": 2,
+          "sugar": 97,
+          "fat": 0,
+          "dry_matter": 98
+        },
+        "calories_100g": 396
+      },
+      {
+        "id": "6095f5b9-4358-465e-b098-2b9a816d9185",
+        "name": "Zucker, weiß",
+        "contents": {
+          "water": 0,
+          "sugar": 100,
+          "fat": 0,
+          "dry_matter": 100
+        },
+        "calories_100g": 405
+      }
+    ]
+  },
+  "Fruit": {
+    "items": [
+      {
+        "id": "d2ef9787-1d84-48fd-9c7a-907748c95b2e",
+        "name": "Äpfel",
+        "contents": {
+          "water": 85,
+          "sugar": 10.3,
+          "fat": 0.4,
+          "dry_matter": 15
+        },
+        "calories_100g": 52
+      },
+      {
+        "id": "a06915df-a1c5-498d-8b90-9434d2291f18",
+        "name": "Amarenakirschen",
+        "contents": {
+          "water": 29.799999,
+          "sugar": 50,
+          "fat": 0,
+          "dry_matter": 70.199997
+        },
+        "calories_100g": 277
+      },
+      {
+        "id": "968d6a08-4306-4d4b-8e94-f9d2987a2f39",
+        "name": "Ananas",
+        "contents": {
+          "water": 83.800003,
+          "sugar": 10,
+          "fat": 0.1,
+          "dry_matter": 16.200001
+        },
+        "calories_100g": 50
+      },
+      {
+        "id": "8c8ba0d3-db6b-4d15-b111-c232aaaaca35",
+        "name": "Ananas Dose",
+        "contents": {
+          "water": 83,
+          "sugar": 18.200001,
+          "fat": 0.6,
+          "dry_matter": 17
+        },
+        "calories_100g": 206
+      },
+      {
+        "id": "3b1f9e45-7d2f-4201-beca-3394f5431449",
+        "name": "Aprikosen",
+        "contents": {
+          "water": 87,
+          "sugar": 7.7,
+          "fat": 0.1,
+          "dry_matter": 13
+        },
+        "calories_100g": 43
+      },
+      {
+        "id": "d5f48227-3b84-4099-8822-59b4469dc72b",
+        "name": "Bananen",
+        "contents": {
+          "water": 74,
+          "sugar": 18.4,
+          "fat": 0.2,
+          "dry_matter": 26
+        },
+        "calories_100g": 95
+      },
+      {
+        "id": "39cac1c6-124a-4e93-8584-cfd82d404b30",
+        "name": "Birnen. frisch",
+        "contents": {
+          "water": 83.400002,
+          "sugar": 10,
+          "fat": 0,
+          "dry_matter": 6.6
+        },
+        "calories_100g": 52
+      },
+      {
+        "id": "dce5faa8-7ce9-44a3-8bd5-686739379da0",
+        "name": "Boskop",
+        "contents": {
+          "water": 89,
+          "sugar": 11,
+          "fat": 0,
+          "dry_matter": 11
+        },
+        "calories_100g": 55
+      },
+      {
+        "id": "605c4ffb-4a64-4220-a735-9ec0e2af1c83",
+        "name": "Brombeeren",
+        "contents": {
+          "water": 86,
+          "sugar": 2.7,
+          "fat": 1,
+          "dry_matter": 14
+        },
+        "calories_100g": 30
+      },
+      {
+        "id": "cb627677-c28e-4214-8ab8-46e7ef788ab9",
+        "name": "Cantaloupe Melone",
+        "contents": {
+          "water": 90.199997,
+          "sugar": 7.9,
+          "fat": 0.2,
+          "dry_matter": 9.8
+        },
+        "calories_100g": 34
+      },
+      {
+        "id": "ccb8474e-faa5-482d-93ea-da5075ecced8",
+        "name": "Cranberries",
+        "contents": {
+          "water": 16,
+          "sugar": 65,
+          "fat": 1.4,
+          "dry_matter": 84
+        },
+        "calories_100g": 308
+      },
+      {
+        "id": "5c99e3f1-3dfc-44f1-a3c0-cf54f0437cc0",
+        "name": "Drachenfrucht",
+        "contents": {
+          "water": 91.599998,
+          "sugar": 6.9,
+          "fat": 0.4,
+          "dry_matter": 8.4
+        },
+        "calories_100g": 37
+      },
+      {
+        "id": "536a3f4c-18b6-4f96-90c6-deac87230e96",
+        "name": "Erdbeeren",
+        "contents": {
+          "water": 90,
+          "sugar": 5.4,
+          "fat": 0.4,
+          "dry_matter": 10
+        },
+        "calories_100g": 32
+      },
+      {
+        "id": "6c5b3c3c-ec43-4a8f-8f32-54b314314edf",
+        "name": "Feigen",
+        "contents": {
+          "water": 82,
+          "sugar": 10,
+          "fat": 0.5,
+          "dry_matter": 18
+        },
+        "calories_100g": 63
+      },
+      {
+        "id": "9940cfeb-4df6-4d6a-8831-d2314ca4808c",
+        "name": "Grapefruit",
+        "contents": {
+          "water": 90,
+          "sugar": 8,
+          "fat": 0.2,
+          "dry_matter": 10
+        },
+        "calories_100g": 50
+      },
+      {
+        "id": "f336c4fa-35e8-4f51-9d52-84724023976c",
+        "name": "Heidelbeeren",
+        "contents": {
+          "water": 85,
+          "sugar": 7.4,
+          "fat": 0.6,
+          "dry_matter": 15
+        },
+        "calories_100g": 42
+      },
+      {
+        "id": "d3ff02eb-b89a-4bab-a59f-2bc661e5584b",
+        "name": "Himbeeren",
+        "contents": {
+          "water": 84,
+          "sugar": 4.8,
+          "fat": 0.3,
+          "dry_matter": 16
+        },
+        "calories_100g": 34
+      },
+      {
+        "id": "39a02b01-94ab-44b4-bb6b-c8b04bfb6152",
+        "name": "Holunderbeeren",
+        "contents": {
+          "water": 84,
+          "sugar": 7.4,
+          "fat": 0.5,
+          "dry_matter": 16
+        },
+        "calories_100g": 48
+      },
+      {
+        "id": "77aa9703-aa05-4e9a-8b82-014a38eca885",
+        "name": "Honigmelone",
+        "contents": {
+          "water": 85,
+          "sugar": 8,
+          "fat": 0.2,
+          "dry_matter": 15
+        },
+        "calories_100g": 34
+      },
+      {
+        "id": "d6032dca-cb3d-4661-b74e-0c604444923e",
+        "name": "Johannisbeeren",
+        "contents": {
+          "water": 81,
+          "sugar": 10,
+          "fat": 0.2,
+          "dry_matter": 19
+        },
+        "calories_100g": 43
+      },
+      {
+        "id": "04910da3-ba6c-41ae-93f4-c01ebb394d63",
+        "name": "Kirschen",
+        "contents": {
+          "water": 82,
+          "sugar": 11.7,
+          "fat": 0.3,
+          "dry_matter": 18
+        },
+        "calories_100g": 60
+      },
+      {
+        "id": "2d9538d8-84e3-4df5-859f-1e6f5ad37310",
+        "name": "Kiwi",
+        "contents": {
+          "water": 81,
+          "sugar": 10.5,
+          "fat": 0.6,
+          "dry_matter": 9
+        },
+        "calories_100g": 61
+      },
+      {
+        "id": "4b34fe86-9a1b-4d69-9448-ce54a7160619",
+        "name": "Kokosnusspulver",
+        "contents": {
+          "water": 1.2,
+          "sugar": 7.2,
+          "fat": 66.199997,
+          "dry_matter": 98.800003
+        },
+        "calories_100g": 675
+      },
+      {
+        "id": "2fd08df6-20ee-45bd-99e8-0bcfce7c9f02",
+        "name": "Kokosraspel",
+        "contents": {
+          "water": 2.2,
+          "sugar": 14,
+          "fat": 62,
+          "dry_matter": 97.199997
+        },
+        "calories_100g": 670
+      },
+      {
+        "id": "2e101a7f-eb04-45a9-9008-157b54e46bf2",
+        "name": "Mandarinen",
+        "contents": {
+          "water": 85,
+          "sugar": 10.1,
+          "fat": 0.3,
+          "dry_matter": 15
+        },
+        "calories_100g": 50
+      },
+      {
+        "id": "f18f1ff8-4418-42e2-8d79-e543e47629c5",
+        "name": "Mango",
+        "contents": {
+          "water": 83,
+          "sugar": 12.5,
+          "fat": 0.5,
+          "dry_matter": 17
+        },
+        "calories_100g": 60
+      },
+      {
+        "id": "bff90183-d3de-4e8c-8e14-13c536c37162",
+        "name": "Mangopüree",
+        "contents": {
+          "water": 83.5,
+          "sugar": 14,
+          "fat": 0,
+          "dry_matter": 16.5
+        },
+        "calories_100g": 65
+      },
+      {
+        "id": "49c57d57-c748-4153-b488-c25c38a3513f",
+        "name": "Mangopüree (10% Zucker)",
+        "contents": {
+          "water": 75,
+          "sugar": 22.5,
+          "fat": 0.5,
+          "dry_matter": 25
+        },
+        "calories_100g": 60
+      },
+      {
+        "id": "cf3710d0-70c4-445e-9e14-66d4cd3ad117",
+        "name": "Marillen",
+        "contents": {
+          "water": 87,
+          "sugar": 10,
+          "fat": 0.1,
+          "dry_matter": 13
+        },
+        "calories_100g": 43
+      },
+      {
+        "id": "70602734-c90d-4137-b530-3e8b09ec6d2e",
+        "name": "Orangen",
+        "contents": {
+          "water": 86,
+          "sugar": 9.2,
+          "fat": 0.2,
+          "dry_matter": 14
+        },
+        "calories_100g": 47
+      },
+      {
+        "id": "8d50d6c4-9055-4acf-a942-06f5558ceed1",
+        "name": "Orangenschale",
+        "contents": {
+          "water": 68,
+          "sugar": 25,
+          "fat": 0.2,
+          "dry_matter": 32
+        },
+        "calories_100g": 125
+      },
+      {
+        "id": "22b012b5-6081-4693-8622-96b74f75902e",
+        "name": "Passionsfrucht",
+        "contents": {
+          "water": 87.699997,
+          "sugar": 10,
+          "fat": 0.4,
+          "dry_matter": 12.3
+        },
+        "calories_100g": 67
+      },
+      {
+        "id": "423f397d-709b-4609-8b84-fe136b485fde",
+        "name": "Pfirsich. Dose",
+        "contents": {
+          "water": 81,
+          "sugar": 14,
+          "fat": 0.1,
+          "dry_matter": 19
+        },
+        "calories_100g": 76
+      },
+      {
+        "id": "5e75a834-8b9c-46d7-a308-01fd94642aff",
+        "name": "Pflaumen",
+        "contents": {
+          "water": 86,
+          "sugar": 8.8,
+          "fat": 0.2,
+          "dry_matter": 14
+        },
+        "calories_100g": 47
+      },
+      {
+        "id": "a0a0835f-6db5-4139-81a9-96806d643798",
+        "name": "Physalis",
+        "contents": {
+          "water": 81,
+          "sugar": 13.3,
+          "fat": 1.1,
+          "dry_matter": 19
+        },
+        "calories_100g": 77
+      },
+      {
+        "id": "1591c72f-4231-4851-8801-5aa6e0c42922",
+        "name": "Rhabarber",
+        "contents": {
+          "water": 94,
+          "sugar": 0,
+          "fat": 0.1,
+          "dry_matter": 6
+        },
+        "calories_100g": 13
+      },
+      {
+        "id": "ff78f516-b2fb-4f88-8c72-c9a29bba7449",
+        "name": "Rosinen",
+        "contents": {
+          "water": 19,
+          "sugar": 66.199997,
+          "fat": 0.6,
+          "dry_matter": 81
+        },
+        "calories_100g": 298
+      },
+      {
+        "id": "ec0922fe-9082-42da-92c2-5549fda50443",
+        "name": "Sanddorn",
+        "contents": {
+          "water": 81,
+          "sugar": 10,
+          "fat": 7.1,
+          "dry_matter": 9
+        },
+        "calories_100g": 94
+      },
+      {
+        "id": "0f403e8e-332f-4a22-a0b7-8f7bb6393541",
+        "name": "Sauerkirschen",
+        "contents": {
+          "water": 85,
+          "sugar": 9,
+          "fat": 0.5,
+          "dry_matter": 15
+        },
+        "calories_100g": 52
+      },
+      {
+        "id": "5f81923a-190e-47e8-bf1b-1009bb37e545",
+        "name": "Stachelbeeren",
+        "contents": {
+          "water": 86,
+          "sugar": 10,
+          "fat": 0.2,
+          "dry_matter": 14
+        },
+        "calories_100g": 44
+      },
+      {
+        "id": "325563f4-ef6a-4e3b-a77e-58e18db3da61",
+        "name": "Wassermelone",
+        "contents": {
+          "water": 90,
+          "sugar": 8.3,
+          "fat": 0.2,
+          "dry_matter": 10
+        },
+        "calories_100g": 38
+      },
+      {
+        "id": "295150c4-0caf-4d52-9335-dfbd0b8766f4",
+        "name": "Weintrauben",
+        "contents": {
+          "water": 81,
+          "sugar": 20,
+          "fat": 0.3,
+          "dry_matter": 19
+        },
+        "calories_100g": 71
+      },
+      {
+        "id": "5c081f73-407b-4602-ae9d-cfb32468c41f",
+        "name": "Zitronenschale",
+        "contents": {
+          "water": 77,
+          "sugar": 16,
+          "fat": 0.3,
+          "dry_matter": 23
+        },
+        "calories_100g": 89
+      }
+    ]
+  },
+  "Syrup": {
+    "items": [
+      {
+        "id": "8ec1755f-20a0-44ef-931a-13d7cba3e564",
+        "name": "Agavensirup",
+        "contents": {
+          "water": 3.4,
+          "sugar": 10.2,
+          "fat": 0.1,
+          "dry_matter": 96.599998
+        },
+        "calories_100g": 47
+      },
+      {
+        "id": "3ca5e76e-89c4-4ec6-a9a1-f7cc3f15aff2",
+        "name": "Ahornsirup",
+        "contents": {
+          "water": 32,
+          "sugar": 67.099998,
+          "fat": 0.2,
+          "dry_matter": 68
+        },
+        "calories_100g": 274
+      },
+      {
+        "id": "e8320630-451a-41ab-9bb6-56ef7e1a73b8",
+        "name": "Akazienhonig",
+        "contents": {
+          "water": 25,
+          "sugar": 75,
+          "fat": 0,
+          "dry_matter": 75
+        },
+        "calories_100g": 302
+      },
+      {
+        "id": "8ce8c6fe-a983-414d-9edd-74d3dd1ccf08",
+        "name": "Amarettosirup",
+        "contents": {
+          "water": 18,
+          "sugar": 82,
+          "fat": 0,
+          "dry_matter": 82
+        },
+        "calories_100g": 329
+      },
+      {
+        "id": "ef808ea3-61ff-4263-b9e2-39d75f369523",
+        "name": "Himbeersirup",
+        "contents": {
+          "water": 23.9,
+          "sugar": 76,
+          "fat": 0,
+          "dry_matter": 76.099998
+        },
+        "calories_100g": 308
+      },
+      {
+        "id": "5d10be29-3334-4453-949b-bfc8f6ee3fd6",
+        "name": "Holunderblütensirup",
+        "contents": {
+          "water": 97.199997,
+          "sugar": 2.6,
+          "fat": 0,
+          "dry_matter": 2.8
+        },
+        "calories_100g": 67
+      },
+      {
+        "id": "e270a3de-9d56-42fc-924b-2d4176873bc2",
+        "name": "Johannisbeer Sirup",
+        "contents": {
+          "water": 14,
+          "sugar": 86,
+          "fat": 0,
+          "dry_matter": 86
+        },
+        "calories_100g": 349
+      },
+      {
+        "id": "55302f48-fafd-4638-8bd2-ac793750ff58",
+        "name": "Kirschsirup",
+        "contents": {
+          "water": 19,
+          "sugar": 80,
+          "fat": 0,
+          "dry_matter": 81
+        },
+        "calories_100g": 322
+      },
+      {
+        "id": "766b1130-7415-40d3-b5b2-016f57f439fe",
+        "name": "Minze Sirup",
+        "contents": {
+          "water": 24,
+          "sugar": 76,
+          "fat": 0,
+          "dry_matter": 76
+        },
+        "calories_100g": 307
+      },
+      {
+        "id": "46d48efd-9597-4664-b219-fce36139c9a1",
+        "name": "Monin Grenadinesirup",
+        "contents": {
+          "water": 23.9,
+          "sugar": 76,
+          "fat": 0,
+          "dry_matter": 76.099998
+        },
+        "calories_100g": 308
+      },
+      {
+        "id": "97bb184c-cb38-467f-85c6-ede10d8b019c",
+        "name": "Monin Zuckerwatte Sirup",
+        "contents": {
+          "water": 20,
+          "sugar": 80,
+          "fat": 0,
+          "dry_matter": 80
+        },
+        "calories_100g": 324
+      },
+      {
+        "id": "eee3f0a2-a7f8-44fc-ab8e-b10aafc248d3",
+        "name": "Waldmeistersirup",
+        "contents": {
+          "water": 96.400002,
+          "sugar": 3.6,
+          "fat": 0,
+          "dry_matter": 3.6
+        },
+        "calories_100g": 62
+      }
+    ]
+  },
+  "Vegetables": {
+    "items": [
+      {
+        "id": "6c9ce740-b9f0-4bd3-9c15-0bf6411c3856",
+        "name": "Avocado",
+        "contents": {
+          "water": 77,
+          "sugar": 1.4,
+          "fat": 12.5,
+          "dry_matter": 23
+        },
+        "calories_100g": 130
+      },
+      {
+        "id": "ccbfb30c-d2f9-4825-a178-fe2ef8e617bb",
+        "name": "Grüne Oliven",
+        "contents": {
+          "water": 78,
+          "sugar": 0,
+          "fat": 13,
+          "dry_matter": 22
+        },
+        "calories_100g": 130
+      },
+      {
+        "id": "b98a113e-a8a6-4aff-960d-a73339dd7e7e",
+        "name": "Hokkaido-Kürbis",
+        "contents": {
+          "water": 93,
+          "sugar": 4,
+          "fat": 0,
+          "dry_matter": 7
+        },
+        "calories_100g": 67
+      },
+      {
+        "id": "d71d3383-f93c-4bc0-80fc-b6d4351e55aa",
+        "name": "Meerrettich",
+        "contents": {
+          "water": 75,
+          "sugar": 10,
+          "fat": 0.3,
+          "dry_matter": 25
+        },
+        "calories_100g": 64
+      },
+      {
+        "id": "67f9763b-0373-429d-94aa-10a12355ed67",
+        "name": "Sahne Meerrettich",
+        "contents": {
+          "water": 66,
+          "sugar": 5.6,
+          "fat": 22,
+          "dry_matter": 34
+        },
+        "calories_100g": 231
+      },
+      {
+        "id": "db188349-54c6-4235-b78b-a99d983485c5",
+        "name": "Salatgurke",
+        "contents": {
+          "water": 96,
+          "sugar": 0,
+          "fat": 0.2,
+          "dry_matter": 4
+        },
+        "calories_100g": 12
+      },
+      {
+        "id": "d73ece1c-dcc8-4d35-bb6c-d85c9b59c679",
+        "name": "Spargel grün",
+        "contents": {
+          "water": 94,
+          "sugar": 0,
+          "fat": 0.1,
+          "dry_matter": 6
+        },
+        "calories_100g": 18
+      },
+      {
+        "id": "7a7de2a1-3a98-432c-99ae-8d49df006361",
+        "name": "Spargel weiß",
+        "contents": {
+          "water": 94,
+          "sugar": 0,
+          "fat": 0.1,
+          "dry_matter": 6
+        },
+        "calories_100g": 16
+      },
+      {
+        "id": "4cdd1573-57f4-4028-aa35-c1696420d7c8",
+        "name": "Steinpilze. getrocknet",
+        "contents": {
+          "water": 8,
+          "sugar": 0,
+          "fat": 3,
+          "dry_matter": 92
+        },
+        "calories_100g": 149
+      },
+      {
+        "id": "c659279a-ed3c-4559-b2ee-30c47e657081",
+        "name": "Tomaten. Dose",
+        "contents": {
+          "water": 87,
+          "sugar": 6,
+          "fat": 0.3,
+          "dry_matter": 13
+        },
+        "calories_100g": 41
+      },
+      {
+        "id": "0275fdd4-13d1-4a43-9dc2-e5d3f8dd0de7",
+        "name": "Tomatenmark",
+        "contents": {
+          "water": 77,
+          "sugar": 10,
+          "fat": 0.2,
+          "dry_matter": 23
+        },
+        "calories_100g": 74
+      }
+    ]
+  },
+  "Herbs": {
+    "items": [
+      {
+        "id": "49ba864c-3a2e-4633-a239-2a81504e5927",
+        "name": "Basilikum",
+        "contents": {
+          "water": 86.400002,
+          "sugar": 0.3,
+          "fat": 1,
+          "dry_matter": 13.6
+        },
+        "calories_100g": 27
+      },
+      {
+        "id": "88985e96-68ab-4ae2-b86b-f745fcc71338",
+        "name": "Basilikumblätter",
+        "contents": {
+          "water": 86.400002,
+          "sugar": 7.7,
+          "fat": 2.5,
+          "dry_matter": 13.6
+        },
+        "calories_100g": 62
+      },
+      {
+        "id": "ef630a7c-7859-4670-a2b5-477f8135254b",
+        "name": "Minze. frisch",
+        "contents": {
+          "water": 86,
+          "sugar": 0,
+          "fat": 0.7,
+          "dry_matter": 14
+        },
+        "calories_100g": 44
+      },
+      {
+        "id": "532d1009-3669-45f0-9303-b1c5d945046e",
+        "name": "Mohn",
+        "contents": {
+          "water": 12.9,
+          "sugar": 0,
+          "fat": 44.200001,
+          "dry_matter": 87.099998
+        },
+        "calories_100g": 472
+      }
+    ]
+  },
+  "Alcohol": {
+    "items": [
+      {
+        "id": "7355646a-c1a1-482a-8c8f-52f76f2569fe",
+        "name": "Amaretto",
+        "contents": {
+          "water": 80,
+          "sugar": 20,
+          "fat": 0,
+          "dry_matter": 20
+        },
+        "calories_100g": 310
+      },
+      {
+        "id": "0e3dc8a7-70ff-43b0-bf47-a1855959c8e8",
+        "name": "Aprikosenlikör",
+        "contents": {
+          "water": 80,
+          "sugar": 20,
+          "fat": 0,
+          "dry_matter": 20
+        },
+        "calories_100g": 194
+      },
+      {
+        "id": "556df762-d92c-4ee6-be95-52ad3a1c09bd",
+        "name": "Bier",
+        "contents": {
+          "water": 92,
+          "sugar": 0.2,
+          "fat": 0,
+          "dry_matter": 4
+        },
+        "calories_100g": 42
+      },
+      {
+        "id": "3dc21a30-d432-40ef-807e-cb99666537e0",
+        "name": "Campari",
+        "contents": {
+          "water": 80,
+          "sugar": 25,
+          "fat": 0,
+          "dry_matter": 20
+        },
+        "calories_100g": 250
+      },
+      {
+        "id": "fb21a9b1-5ce2-43c7-ae97-a7dbcd269f3f",
+        "name": "Cassis Likör",
+        "contents": {
+          "water": 60,
+          "sugar": 40,
+          "fat": 0,
+          "dry_matter": 40
+        },
+        "calories_100g": 243
+      },
+      {
+        "id": "94e684ba-480b-41b7-b80a-6a2d7b435cd8",
+        "name": "Champagner",
+        "contents": {
+          "water": 98,
+          "sugar": 2,
+          "fat": 0,
+          "dry_matter": 2
+        },
+        "calories_100g": 72
+      },
+      {
+        "id": "02fe724f-6970-438e-a780-6ba522b88d48",
+        "name": "Eierlikör",
+        "contents": {
+          "water": 47,
+          "sugar": 30,
+          "fat": 7,
+          "dry_matter": 53
+        },
+        "calories_100g": 285
+      },
+      {
+        "id": "bdbb017f-aacc-44fa-b370-d32375276b27",
+        "name": "Gin",
+        "contents": {
+          "water": 100,
+          "sugar": 0,
+          "fat": 0,
+          "dry_matter": 0
+        },
+        "calories_100g": 263
+      },
+      {
+        "id": "408b5ea3-844a-4c9e-9086-91b3c0bb3aa2",
+        "name": "Ginger-Ale",
+        "contents": {
+          "water": 91,
+          "sugar": 8.7,
+          "fat": 0,
+          "dry_matter": 9
+        },
+        "calories_100g": 36
+      },
+      {
+        "id": "090f0952-2752-43b0-ad5b-d1877c557cd8",
+        "name": "Kirschlikör",
+        "contents": {
+          "water": 80,
+          "sugar": 20,
+          "fat": 0,
+          "dry_matter": 20
+        },
+        "calories_100g": 194
+      },
+      {
+        "id": "c7913262-3af9-4e99-a190-b596d5cff4d1",
+        "name": "Marsala",
+        "contents": {
+          "water": 85.800003,
+          "sugar": 3,
+          "fat": 11.2,
+          "dry_matter": 14.2
+        },
+        "calories_100g": 100
+      },
+      {
+        "id": "2b5c31bd-6e41-475c-be1e-1c31d99e73ec",
+        "name": "Martini",
+        "contents": {
+          "water": 90.199997,
+          "sugar": 9.8,
+          "fat": 0,
+          "dry_matter": 9.8
+        },
+        "calories_100g": 125
+      },
+      {
+        "id": "1a64ef5e-5fe1-43af-9ac2-aea7c6e0df3e",
+        "name": "Portwein. rot",
+        "contents": {
+          "water": 87,
+          "sugar": 10,
+          "fat": 0,
+          "dry_matter": 13
+        },
+        "calories_100g": 153
+      },
+      {
+        "id": "17a4aa94-0b6b-4eb8-9d38-d66317274b60",
+        "name": "Portwein. weiß",
+        "contents": {
+          "water": 72.300003,
+          "sugar": 12,
+          "fat": 0,
+          "dry_matter": 12
+        },
+        "calories_100g": 153
+      },
+      {
+        "id": "bc00783a-3364-4e05-8f84-98af355f4f94",
+        "name": "Prosecco",
+        "contents": {
+          "water": 98,
+          "sugar": 2,
+          "fat": 0,
+          "dry_matter": 2
+        },
+        "calories_100g": 72
+      },
+      {
+        "id": "8ab8eb46-2e4e-4905-a736-dbc9a2c7e8c5",
+        "name": "Rotwein",
+        "contents": {
+          "water": 87,
+          "sugar": 2.5,
+          "fat": 0,
+          "dry_matter": 13
+        },
+        "calories_100g": 78
+      },
+      {
+        "id": "337ca3c9-3b1a-4a7a-9656-94e9f7d30c3e",
+        "name": "Rum. weiß",
+        "contents": {
+          "water": 100,
+          "sugar": 0,
+          "fat": 0,
+          "dry_matter": 0
+        },
+        "calories_100g": 247
+      },
+      {
+        "id": "56f6b867-17df-412d-9c7d-9c12b3527f51",
+        "name": "Weißwein",
+        "contents": {
+          "water": 89,
+          "sugar": 1,
+          "fat": 0,
+          "dry_matter": 11
+        },
+        "calories_100g": 82
+      },
+      {
+        "id": "059af95d-e64f-4338-b550-11d3fb87bb2b",
+        "name": "Whiskey",
+        "contents": {
+          "water": 100,
+          "sugar": 0,
+          "fat": 0,
+          "dry_matter": 0
+        },
+        "calories_100g": 49
+      },
+      {
+        "id": "855e3cd0-a795-4b11-9971-7a6a76431915",
+        "name": "Wodka",
+        "contents": {
+          "water": 100,
+          "sugar": 0,
+          "fat": 0,
+          "dry_matter": 0
+        },
+        "calories_100g": 227
+      },
+      {
+        "id": "9ca19b6a-6318-4369-930b-d81a4e660d03",
+        "name": "Zuckerrohrschnaps",
+        "contents": {
+          "water": 100,
+          "sugar": 0,
+          "fat": 0,
+          "dry_matter": 0
+        },
+        "calories_100g": 246
+      }
+    ]
+  },
+  "Candy": {
+    "items": [
+      {
+        "id": "cbde12ce-5bca-4b3e-8d52-6e84512859f5",
+        "name": "After Eight",
+        "contents": {
+          "water": 20,
+          "sugar": 7.4,
+          "fat": 12.9,
+          "dry_matter": 80
+        },
+        "calories_100g": 432
+      },
+      {
+        "id": "5427cc56-1e56-4a80-82fd-24e46b6f943d",
+        "name": "Ahoi Brause Perlen",
+        "contents": {
+          "water": 2,
+          "sugar": 75,
+          "fat": 2.5,
+          "dry_matter": 98
+        },
+        "calories_100g": 374
+      },
+      {
+        "id": "ccc8f871-1b49-4e73-b470-6af20a3a2d43",
+        "name": "Amarettini",
+        "contents": {
+          "water": 1.7,
+          "sugar": 76.199997,
+          "fat": 10.1,
+          "dry_matter": 98.300003
+        },
+        "calories_100g": 439
+      },
+      {
+        "id": "4e275516-b82d-446b-a2df-b1273a1ecdc8",
+        "name": "Bounty",
+        "contents": {
+          "water": 10,
+          "sugar": 48,
+          "fat": 26,
+          "dry_matter": 90
+        },
+        "calories_100g": 487
+      },
+      {
+        "id": "11aaeb11-24e4-4e84-937c-94947b74b83b",
+        "name": "Daim",
+        "contents": {
+          "water": 3.7,
+          "sugar": 60,
+          "fat": 32,
+          "dry_matter": 96.300003
+        },
+        "calories_100g": 545
+      },
+      {
+        "id": "810e478f-addc-404e-a9ca-4a5316ae781d",
+        "name": "Dominosteine",
+        "contents": {
+          "water": 30,
+          "sugar": 50,
+          "fat": 16,
+          "dry_matter": 70
+        },
+        "calories_100g": 502
+      },
+      {
+        "id": "e316927c-7b1a-41cc-a1ed-2e15f96b11c3",
+        "name": "Duplo",
+        "contents": {
+          "water": 4.4,
+          "sugar": 50.400002,
+          "fat": 33.5,
+          "dry_matter": 95.599998
+        },
+        "calories_100g": 555
+      },
+      {
+        "id": "9e2d0d09-f45b-489b-8005-45ed0d6a2f8a",
+        "name": "Ferrero Küsschen",
+        "contents": {
+          "water": 5.7,
+          "sugar": 39,
+          "fat": 46,
+          "dry_matter": 94.300003
+        },
+        "calories_100g": 607
+      },
+      {
+        "id": "a17b8d19-df3b-402d-b41d-2871b1e15d56",
+        "name": "Giotto",
+        "contents": {
+          "water": 3,
+          "sugar": 32.299999,
+          "fat": 48,
+          "dry_matter": 97
+        },
+        "calories_100g": 632
+      },
+      {
+        "id": "91f2f755-4516-4ed5-bd80-7bd78d985ecd",
+        "name": "Haselnuss-Pralinen",
+        "contents": {
+          "water": 4.5,
+          "sugar": 85.400002,
+          "fat": 5.8,
+          "dry_matter": 95.5
+        },
+        "calories_100g": 408
+      },
+      {
+        "id": "85a32f37-2bad-43e7-84bc-a74561e03ff9",
+        "name": "Jogurette",
+        "contents": {
+          "water": 3.8,
+          "sugar": 54.799999,
+          "fat": 36.599998,
+          "dry_matter": 96.199997
+        },
+        "calories_100g": 571
+      },
+      {
+        "id": "b994342f-4f35-4cfb-be3d-1f2b35fd02c8",
+        "name": "Kinder Bueno",
+        "contents": {
+          "water": 4.3,
+          "sugar": 41.200001,
+          "fat": 17.299999,
+          "dry_matter": 95.699997
+        },
+        "calories_100g": 572
+      },
+      {
+        "id": "52afe03d-d774-4925-8890-b5168c0a3421",
+        "name": "Kinder Schokobons",
+        "contents": {
+          "water": 1.2,
+          "sugar": 52,
+          "fat": 36.5,
+          "dry_matter": 98.800003
+        },
+        "calories_100g": 575
+      },
+      {
+        "id": "2995c515-264a-4708-b937-03b74b460f31",
+        "name": "Kinderschokolade",
+        "contents": {
+          "water": 3,
+          "sugar": 53.299999,
+          "fat": 35,
+          "dry_matter": 97
+        },
+        "calories_100g": 566
+      },
+      {
+        "id": "ffc382bd-8f33-4866-9f57-bdb5746237af",
+        "name": "Lakritz",
+        "contents": {
+          "water": 5.9,
+          "sugar": 55.5,
+          "fat": 0.9,
+          "dry_matter": 94.099998
+        },
+        "calories_100g": 375
+      },
+      {
+        "id": "5d4f33c8-cb55-49aa-8d26-919e378325a4",
+        "name": "Mars",
+        "contents": {
+          "water": 5,
+          "sugar": 64,
+          "fat": 16.6,
+          "dry_matter": 95
+        },
+        "calories_100g": 448
+      },
+      {
+        "id": "e67c460d-a918-4ae1-9b43-bf1c000d13c3",
+        "name": "Marzipan",
+        "contents": {
+          "water": 7.2,
+          "sugar": 58,
+          "fat": 25,
+          "dry_matter": 92.800003
+        },
+        "calories_100g": 491
+      },
+      {
+        "id": "88355377-c9dc-42d7-b6b4-7bf100855e1b",
+        "name": "Marzipankartoffeln",
+        "contents": {
+          "water": 10,
+          "sugar": 67,
+          "fat": 14,
+          "dry_matter": 90
+        },
+        "calories_100g": 424
+      },
+      {
+        "id": "ab249e9c-1ff1-4bb7-a59c-572d347610ec",
+        "name": "Milchschnitte",
+        "contents": {
+          "water": 18,
+          "sugar": 29.200001,
+          "fat": 27.299999,
+          "dry_matter": 82
+        },
+        "calories_100g": 417
+      },
+      {
+        "id": "43646fc7-c09d-4c46-bf86-b7ccd7bc686c",
+        "name": "Milky Way",
+        "contents": {
+          "water": 8,
+          "sugar": 66.800003,
+          "fat": 16.1,
+          "dry_matter": 92
+        },
+        "calories_100g": 449
+      },
+      {
+        "id": "db8e8c27-d8e3-4f75-b0ff-4f69fdb896fd",
+        "name": "Mon Cheri",
+        "contents": {
+          "water": 12,
+          "sugar": 68.300003,
+          "fat": 20,
+          "dry_matter": 88
+        },
+        "calories_100g": 470
+      },
+      {
+        "id": "dd8a0fdc-c0f2-4005-92e4-65e079090563",
+        "name": "Mr. Tom",
+        "contents": {
+          "water": 1.42,
+          "sugar": 24.700001,
+          "fat": 33.900002,
+          "dry_matter": 98.580002
+        },
+        "calories_100g": 547
+      },
+      {
+        "id": "2f21b2a7-2305-4908-9d97-e87fe416a416",
+        "name": "Nougat",
+        "contents": {
+          "water": 2,
+          "sugar": 63.799999,
+          "fat": 21.4,
+          "dry_matter": 98
+        },
+        "calories_100g": 474
+      },
+      {
+        "id": "813d484a-4504-4323-b7d0-3a08e9457210",
+        "name": "Nuss Nougat",
+        "contents": {
+          "water": 7.5,
+          "sugar": 52,
+          "fat": 30,
+          "dry_matter": 92.5
+        },
+        "calories_100g": 529
+      },
+      {
+        "id": "5204608f-040a-4f03-bfd1-a78b7bbb159e",
+        "name": "Oreo Kekse",
+        "contents": {
+          "water": 5,
+          "sugar": 43,
+          "fat": 23,
+          "dry_matter": 95
+        },
+        "calories_100g": 500
+      },
+      {
+        "id": "a947cd9a-d8aa-47f0-9328-45b57cc8b176",
+        "name": "Popcorn",
+        "contents": {
+          "water": 3.9,
+          "sugar": 1.3,
+          "fat": 4.9,
+          "dry_matter": 94.099998
+        },
+        "calories_100g": 380
+      },
+      {
+        "id": "86466280-6c94-475a-9a34-13ec41a6d1da",
+        "name": "Raffaello",
+        "contents": {
+          "water": 4,
+          "sugar": 33.299999,
+          "fat": 48.599998,
+          "dry_matter": 96
+        },
+        "calories_100g": 628
+      },
+      {
+        "id": "2182a9ed-3ce8-4394-b075-b3e282412373",
+        "name": "Ritter Rum",
+        "contents": {
+          "water": 5,
+          "sugar": 47,
+          "fat": 34,
+          "dry_matter": 95
+        },
+        "calories_100g": 552
+      },
+      {
+        "id": "9fae78e7-8fcd-4694-9072-fe257dce8f31",
+        "name": "Rocher",
+        "contents": {
+          "water": 6,
+          "sugar": 39.900002,
+          "fat": 42.700001,
+          "dry_matter": 94
+        },
+        "calories_100g": 603
+      },
+      {
+        "id": "643af7b7-23ca-4992-a6ae-55859532d550",
+        "name": "Sahne Muh Muhs",
+        "contents": {
+          "water": 9.7,
+          "sugar": 72,
+          "fat": 5.6,
+          "dry_matter": 90.300003
+        },
+        "calories_100g": 394
+      },
+      {
+        "id": "ae081cf2-4712-488b-9707-073d408778c9",
+        "name": "Schoko-Cookies",
+        "contents": {
+          "water": 3.2,
+          "sugar": 32,
+          "fat": 25,
+          "dry_matter": 96.800003
+        },
+        "calories_100g": 495
+      },
+      {
+        "id": "2e1c7ebf-2e5f-4367-b985-df4440427445",
+        "name": "Snickers",
+        "contents": {
+          "water": 5,
+          "sugar": 51.599998,
+          "fat": 22.9,
+          "dry_matter": 95
+        },
+        "calories_100g": 488
+      },
+      {
+        "id": "059fb846-5e3f-4967-987a-4c47d2a40324",
+        "name": "Spekulatius",
+        "contents": {
+          "water": 6,
+          "sugar": 20,
+          "fat": 25.6,
+          "dry_matter": 94
+        },
+        "calories_100g": 489
+      },
+      {
+        "id": "5cc3671e-6287-4ca4-aa8c-4a5218d062f3",
+        "name": "Toblerone",
+        "contents": {
+          "water": 1,
+          "sugar": 59.5,
+          "fat": 29.5,
+          "dry_matter": 99
+        },
+        "calories_100g": 535
+      },
+      {
+        "id": "17ca66cb-07a3-44f5-a266-6279e2d68709",
+        "name": "Toffifee",
+        "contents": {
+          "water": 5.9,
+          "sugar": 48.900002,
+          "fat": 28.799999,
+          "dry_matter": 94.099998
+        },
+        "calories_100g": 522
+      },
+      {
+        "id": "5323e9dd-7e3a-40fd-bc5b-806d51b0190e",
+        "name": "Twix",
+        "contents": {
+          "water": 5,
+          "sugar": 48.799999,
+          "fat": 24,
+          "dry_matter": 95
+        },
+        "calories_100g": 495
+      },
+      {
+        "id": "c24dce78-b604-4322-b251-d4123073f22c",
+        "name": "Weinbrandbohnen",
+        "contents": {
+          "water": 21,
+          "sugar": 45.400002,
+          "fat": 21.299999,
+          "dry_matter": 79
+        },
+        "calories_100g": 452
+      },
+      {
+        "id": "b086adcf-f52a-432c-a2d8-ce1c2b466bef",
+        "name": "Zimtsterne",
+        "contents": {
+          "water": 10,
+          "sugar": 40,
+          "fat": 26.4,
+          "dry_matter": 90
+        },
+        "calories_100g": 455
+      }
+    ]
+  },
+  "Chocolate": {
+    "items": [
+      {
+        "id": "5ccd26c9-354d-4686-9840-3b155956a6ec",
+        "name": "Callebaut 703038",
+        "contents": {
+          "water": 3,
+          "sugar": 31,
+          "fat": 39,
+          "dry_matter": 97
+        },
+        "calories_100g": 540
+      },
+      {
+        "id": "60d12e2c-4dda-497a-9900-65495705361c",
+        "name": "Callebaut Orange",
+        "contents": {
+          "water": 3,
+          "sugar": 55,
+          "fat": 35,
+          "dry_matter": 97
+        },
+        "calories_100g": 566
+      },
+      {
+        "id": "f9587966-4a33-45a0-b67d-e7f57e5964cd",
+        "name": "Callebaut White",
+        "contents": {
+          "water": 3,
+          "sugar": 55,
+          "fat": 36,
+          "dry_matter": 97
+        },
+        "calories_100g": 569
+      },
+      {
+        "id": "f414b5e8-f03c-4a0a-94ec-294cd8559bb2",
+        "name": "Edelbitter-Schokolade 70%",
+        "contents": {
+          "water": 15,
+          "sugar": 29,
+          "fat": 41,
+          "dry_matter": 85
+        },
+        "calories_100g": 561
+      },
+      {
+        "id": "8cfd3d23-3fb9-4b61-b0da-d48de2a5e0f1",
+        "name": "Halbbitter-Kuvertüre",
+        "contents": {
+          "water": 2,
+          "sugar": 63.200001,
+          "fat": 10.7,
+          "dry_matter": 98
+        },
+        "calories_100g": 396
+      },
+      {
+        "id": "35f6e0fa-e685-42cb-87cc-943462f87171",
+        "name": "Kakao",
+        "contents": {
+          "water": 5,
+          "sugar": 0,
+          "fat": 12,
+          "dry_matter": 95
+        },
+        "calories_100g": 286
+      },
+      {
+        "id": "e40399fa-8f24-459a-b251-00f11a177f35",
+        "name": "Kuvertüre. weiß",
+        "contents": {
+          "water": 2.5,
+          "sugar": 53.299999,
+          "fat": 38.299999,
+          "dry_matter": 97.5
+        },
+        "calories_100g": 582
+      },
+      {
+        "id": "cf474f1b-2c85-48d4-ae6f-d2a852e51354",
+        "name": "Lindt 100% Kakao",
+        "contents": {
+          "water": 0.5,
+          "sugar": 1.2,
+          "fat": 55,
+          "dry_matter": 99.5
+        },
+        "calories_100g": 618
+      },
+      {
+        "id": "e850d7d3-6367-49f3-8cb9-8d0e011de825",
+        "name": "Schokolade. weiß",
+        "contents": {
+          "water": 1,
+          "sugar": 60,
+          "fat": 30.1,
+          "dry_matter": 99
+        },
+        "calories_100g": 542
+      },
+      {
+        "id": "2ff2cbb9-4ad3-4c1a-bf9b-03f0621d8e69",
+        "name": "Zartbitterschokolade 70%",
+        "contents": {
+          "water": 0.5,
+          "sugar": 9.9,
+          "fat": 3.2,
+          "dry_matter": 99.5
+        },
+        "calories_100g": 353
+      }
+    ]
+  },
+  "Nuts": {
+    "items": [
+      {
+        "id": "8ea3e7be-8d93-4234-a05c-27b70b7d89af",
+        "name": "Erdnüsse geröstet gesalzen",
+        "contents": {
+          "water": 2,
+          "sugar": 3.6,
+          "fat": 51.900002,
+          "dry_matter": 98
+        },
+        "calories_100g": 603
+      },
+      {
+        "id": "131c418e-b319-464f-86ec-196b14eb5112",
+        "name": "Gebrannte Mandeln",
+        "contents": {
+          "water": 4,
+          "sugar": 30,
+          "fat": 30,
+          "dry_matter": 96
+        },
+        "calories_100g": 514
+      },
+      {
+        "id": "7771c7b4-d591-479a-a1ed-eb544710d0d3",
+        "name": "Gebrannte Walnüsse",
+        "contents": {
+          "water": 8,
+          "sugar": 40.099998,
+          "fat": 40,
+          "dry_matter": 92
+        },
+        "calories_100g": 576
+      },
+      {
+        "id": "5d0e3146-3629-4de5-bbc5-0873d17fb49a",
+        "name": "Haselnuss gemahlen",
+        "contents": {
+          "water": 5,
+          "sugar": 4.3,
+          "fat": 64.099998,
+          "dry_matter": 95
+        },
+        "calories_100g": 667
+      },
+      {
+        "id": "c9191b99-ebac-4d09-974f-eaa7d706aaab",
+        "name": "Kürbiskerne. geröstet",
+        "contents": {
+          "water": 5,
+          "sugar": 0,
+          "fat": 46.400002,
+          "dry_matter": 95
+        },
+        "calories_100g": 565
+      },
+      {
+        "id": "a5dc2b70-6984-48ee-ae95-747bd74c4be3",
+        "name": "Macadamianüsse. ungesalzen",
+        "contents": {
+          "water": 2,
+          "sugar": 0,
+          "fat": 75,
+          "dry_matter": 98
+        },
+        "calories_100g": 692
+      },
+      {
+        "id": "51df5f86-8491-422f-81c7-254a3c6f1e1a",
+        "name": "Mandeln",
+        "contents": {
+          "water": 5,
+          "sugar": 3.4,
+          "fat": 53,
+          "dry_matter": 95
+        },
+        "calories_100g": 589
+      },
+      {
+        "id": "07d1e306-a44c-477f-b798-fc3d05fe396e",
+        "name": "Pecannüsse",
+        "contents": {
+          "water": 3,
+          "sugar": 2.2,
+          "fat": 72,
+          "dry_matter": 97
+        },
+        "calories_100g": 692
+      },
+      {
+        "id": "271a8fa4-7bc4-4003-adc9-a15abdf74ecb",
+        "name": "Pinienkerne",
+        "contents": {
+          "water": 3,
+          "sugar": 3.6,
+          "fat": 68,
+          "dry_matter": 97
+        },
+        "calories_100g": 673
+      },
+      {
+        "id": "fc73e481-94f0-4c21-ad49-9877e2a98c75",
+        "name": "Pistazien. ungesalzen",
+        "contents": {
+          "water": 5.7,
+          "sugar": 6.1,
+          "fat": 54,
+          "dry_matter": 94.300003
+        },
+        "calories_100g": 640
+      },
+      {
+        "id": "d9d75df3-9598-4fc7-9d31-21ace1ebd14c",
+        "name": "Walnuss",
+        "contents": {
+          "water": 4,
+          "sugar": 7,
+          "fat": 62.5,
+          "dry_matter": 96
+        },
+        "calories_100g": 654
+      }
+    ]
+  },
+  "Spreads": {
+    "items": [
+      {
+        "id": "9c9cf460-63e9-4a8a-b2d3-75e32c8a37c2",
+        "name": "Dijon Senf",
+        "contents": {
+          "water": 79.160004,
+          "sugar": 2.84,
+          "fat": 3.11,
+          "dry_matter": 20.84
+        },
+        "calories_100g": 66
+      },
+      {
+        "id": "d61d046c-905d-4d60-bfae-cb56f4bb686f",
+        "name": "Erdnussbutter",
+        "contents": {
+          "water": 1,
+          "sugar": 6,
+          "fat": 50,
+          "dry_matter": 99
+        },
+        "calories_100g": 597
+      },
+      {
+        "id": "ffc76331-942a-4504-a460-fa122fdf0fd0",
+        "name": "Haselnussmus",
+        "contents": {
+          "water": 4.4,
+          "sugar": 8,
+          "fat": 64,
+          "dry_matter": 95.599998
+        },
+        "calories_100g": 688
+      },
+      {
+        "id": "a6940288-18e1-451c-b606-e791d637961c",
+        "name": "Lotus Speculoos",
+        "contents": {
+          "water": 2.2,
+          "sugar": 38.099998,
+          "fat": 19,
+          "dry_matter": 97.800003
+        },
+        "calories_100g": 484
+      },
+      {
+        "id": "c224b022-8cab-409f-9d51-28c9a67d86db",
+        "name": "Malagapaste",
+        "contents": {
+          "water": 39,
+          "sugar": 51.799999,
+          "fat": 0.2,
+          "dry_matter": 61
+        },
+        "calories_100g": 244
+      },
+      {
+        "id": "7d1a9224-52ae-4a1a-bc0a-fc72040c2d67",
+        "name": "Maronencreme",
+        "contents": {
+          "water": 33,
+          "sugar": 50.200001,
+          "fat": 0.8,
+          "dry_matter": 67
+        },
+        "calories_100g": 270
+      },
+      {
+        "id": "43e7bc4f-e9d6-421a-abed-3304394e9f82",
+        "name": "Marshmallow Fluff",
+        "contents": {
+          "water": 18,
+          "sugar": 49,
+          "fat": 0,
+          "dry_matter": 82
+        },
+        "calories_100g": 330
+      },
+      {
+        "id": "60421a1e-8534-4561-893a-53972aa7511f",
+        "name": "Nutella",
+        "contents": {
+          "water": 2.3,
+          "sugar": 55,
+          "fat": 30.5,
+          "dry_matter": 97.699997
+        },
+        "calories_100g": 536
+      },
+      {
+        "id": "cb86efb5-e500-4023-af1e-cd8ff14d5386",
+        "name": "Orangenkuvertüre",
+        "contents": {
+          "water": 1,
+          "sugar": 60,
+          "fat": 30.1,
+          "dry_matter": 99
+        },
+        "calories_100g": 542
+      },
+      {
+        "id": "bda805c5-eb78-4188-a6b7-99792b107460",
+        "name": "Orangenmarmelade",
+        "contents": {
+          "water": 42.700001,
+          "sugar": 47.5,
+          "fat": 0.2,
+          "dry_matter": 57.299999
+        },
+        "calories_100g": 238
+      },
+      {
+        "id": "c558ecde-3454-4f70-8fe8-24c48cd9a7fa",
+        "name": "Preiselbeerengelee",
+        "contents": {
+          "water": 55,
+          "sugar": 44.099998,
+          "fat": 0.1,
+          "dry_matter": 45
+        },
+        "calories_100g": 182
+      }
+    ]
+  },
+  "Additives": {
+    "items": [
+      {
+        "id": "62b1c36c-12a3-4afd-9850-1c434381729f",
+        "name": "Emil -18",
+        "contents": {
+          "water": 1.7,
+          "sugar": 55.400002,
+          "fat": 0.8,
+          "dry_matter": 98.300003
+        },
+        "calories_100g": 360
+      },
+      {
+        "id": "92c004b1-af5f-4c2c-9c86-247346fdcd51",
+        "name": "Emil -18J",
+        "contents": {
+          "water": 3.3,
+          "sugar": 54.900002,
+          "fat": 0.3,
+          "dry_matter": 96.699997
+        },
+        "calories_100g": 364
+      },
+      {
+        "id": "8c2dd141-1b43-49c4-bbd1-22ca8ded7b62",
+        "name": "Emil -18T",
+        "contents": {
+          "water": 8,
+          "sugar": 27.5,
+          "fat": 0.4,
+          "dry_matter": 92
+        },
+        "calories_100g": 358
+      },
+      {
+        "id": "5cf61d77-4570-420d-a169-ea97522c3823",
+        "name": "Emil Cool",
+        "contents": {
+          "water": 5,
+          "sugar": 0.5,
+          "fat": 0.7,
+          "dry_matter": 95
+        },
+        "calories_100g": 184
+      },
+      {
+        "id": "0b5e4596-75b4-4e0c-8ea5-952c5bf42958",
+        "name": "Emil Hot",
+        "contents": {
+          "water": 5.6,
+          "sugar": 0.3,
+          "fat": 23.4,
+          "dry_matter": 94.400002
+        },
+        "calories_100g": 354
+      },
+      {
+        "id": "f46341c2-d384-4155-a2cc-b0aa787fbde1",
+        "name": "Glycerin",
+        "contents": {
+          "water": 0,
+          "sugar": 100,
+          "fat": 0,
+          "dry_matter": 100
+        },
+        "calories_100g": 400
+      },
+      {
+        "id": "fa754a36-bb8d-44b0-a903-0200a60da592",
+        "name": "Guarkernmehl",
+        "contents": {
+          "water": 10,
+          "sugar": 0.5,
+          "fat": 0.7,
+          "dry_matter": 90
+        },
+        "calories_100g": 180
+      },
+      {
+        "id": "4398969b-750c-4f89-88b3-c35c3711cadf",
+        "name": "Hartweizengrieß",
+        "contents": {
+          "water": 14.8,
+          "sugar": 0.4,
+          "fat": 1.4,
+          "dry_matter": 85.199997
+        },
+        "calories_100g": 340
+      },
+      {
+        "id": "1209cc3f-d8b8-4082-a3e0-c4e41a44e67f",
+        "name": "JBK",
+        "contents": {
+          "water": 0,
+          "sugar": 0.5,
+          "fat": 0.6,
+          "dry_matter": 100
+        },
+        "calories_100g": 187
+      },
+      {
+        "id": "636bf189-0bf7-4f46-a719-eb250bdf8be9",
+        "name": "Lecithin",
+        "contents": {
+          "water": 1,
+          "sugar": 0,
+          "fat": 91,
+          "dry_matter": 99
+        },
+        "calories_100g": 846
+      },
+      {
+        "id": "7afb41b8-e992-4c3b-8458-466124129b82",
+        "name": "Pektin",
+        "contents": {
+          "water": 11.5,
+          "sugar": 0,
+          "fat": 1.4,
+          "dry_matter": 88.5
+        },
+        "calories_100g": 202
+      },
+      {
+        "id": "a75b2f35-7d03-45c5-9728-442f2d9e7bcd",
+        "name": "Salz",
+        "contents": {
+          "water": 1,
+          "sugar": 0,
+          "fat": 0,
+          "dry_matter": 99
+        },
+        "calories_100g": 0
+      },
+      {
+        "id": "8d635314-4c0e-425b-9d79-e27c8408276e",
+        "name": "Stärke",
+        "contents": {
+          "water": 12,
+          "sugar": 0,
+          "fat": 1,
+          "dry_matter": 88
+        },
+        "calories_100g": 355
+      }
+    ]
+  },
+  "Spices": {
+    "items": [
+      {
+        "id": "cf514ab0-3b78-4079-b117-e5b1a300dc6a",
+        "name": "Chilipulver",
+        "contents": {
+          "water": 88,
+          "sugar": 7,
+          "fat": 14,
+          "dry_matter": 12
+        },
+        "calories_100g": 282
+      },
+      {
+        "id": "ebfa2ac7-456a-4f98-8c38-e35196238af3",
+        "name": "Glühweingewürz",
+        "contents": {
+          "water": 39.200001,
+          "sugar": 49,
+          "fat": 6.6,
+          "dry_matter": 60.799999
+        },
+        "calories_100g": 306
+      },
+      {
+        "id": "4b854f4f-6b9a-48a4-ba89-7d05b0335361",
+        "name": "Kurkuma",
+        "contents": {
+          "water": 11,
+          "sugar": 0,
+          "fat": 10,
+          "dry_matter": 89
+        },
+        "calories_100g": 356
+      },
+      {
+        "id": "dc2bbd86-5151-4b8b-81b5-7ddf7535a66a",
+        "name": "Lebkuchengewürz",
+        "contents": {
+          "water": 4,
+          "sugar": 24,
+          "fat": 16,
+          "dry_matter": 96
+        },
+        "calories_100g": 450
+      },
+      {
+        "id": "d1d88994-72b0-4cbf-9e25-0c9ffa203214",
+        "name": "Safran",
+        "contents": {
+          "water": 12,
+          "sugar": 60,
+          "fat": 5.9,
+          "dry_matter": 88
+        },
+        "calories_100g": 349
+      },
+      {
+        "id": "dc1c8645-5367-46ac-a4c2-becb6c181e1c",
+        "name": "Spekulatiusgewürz",
+        "contents": {
+          "water": 4,
+          "sugar": 24,
+          "fat": 16,
+          "dry_matter": 96
+        },
+        "calories_100g": 455
+      },
+      {
+        "id": "e39048a6-fba0-4126-aa56-3423ee47cc5c",
+        "name": "Stollengewürz",
+        "contents": {
+          "water": 4,
+          "sugar": 24,
+          "fat": 16,
+          "dry_matter": 96
+        },
+        "calories_100g": 450
+      },
+      {
+        "id": "6dc335f9-46d3-43c8-bc47-c81a63b5a10a",
+        "name": "Vanille. gemahlen",
+        "contents": {
+          "water": 9,
+          "sugar": 55.400002,
+          "fat": 3.2,
+          "dry_matter": 91
+        },
+        "calories_100g": 272
+      },
+      {
+        "id": "ef1b29a2-4b1c-4285-b94f-6f78a6a3572c",
+        "name": "Vanilleschote",
+        "contents": {
+          "water": 9,
+          "sugar": 55.400002,
+          "fat": 3.2,
+          "dry_matter": 91
+        },
+        "calories_100g": 272
+      },
+      {
+        "id": "dbc4f66f-27a0-4219-b6f7-7181f59d6db1",
+        "name": "Zimt",
+        "contents": {
+          "water": 9,
+          "sugar": 60,
+          "fat": 3.2,
+          "dry_matter": 91
+        },
+        "calories_100g": 272
+      }
+    ]
+  },
+  "Liquids": {
+    "items": [
+      {
+        "id": "9cc12ef4-2500-4bd6-9a3e-0d418dccde70",
+        "name": "Ananassaft",
+        "contents": {
+          "water": 84.599998,
+          "sugar": 10,
+          "fat": 0.1,
+          "dry_matter": 15.4
+        },
+        "calories_100g": 222
+      },
+      {
+        "id": "9f34f844-9131-4ff4-8150-948f3d6c7d72",
+        "name": "Ananassaft",
+        "contents": {
+          "water": 85.900002,
+          "sugar": 12,
+          "fat": 0.1,
+          "dry_matter": 14.1
+        },
+        "calories_100g": 55
+      },
+      {
+        "id": "cf020b2b-2b7e-46ce-bd0c-6f93dc92949f",
+        "name": "Apfelsaft",
+        "contents": {
+          "water": 88,
+          "sugar": 11,
+          "fat": 0,
+          "dry_matter": 12
+        },
+        "calories_100g": 48
+      },
+      {
+        "id": "90ff9284-5579-4e3c-b15b-9810a09af7c6",
+        "name": "Birnensaft",
+        "contents": {
+          "water": 87,
+          "sugar": 9.6,
+          "fat": 0.2,
+          "dry_matter": 13
+        },
+        "calories_100g": 49
+      },
+      {
+        "id": "e9a6622c-fd11-4ebf-94ac-469633c5242c",
+        "name": "Erdbeersaft",
+        "contents": {
+          "water": 86.300003,
+          "sugar": 12.3,
+          "fat": 0.5,
+          "dry_matter": 13.7
+        },
+        "calories_100g": 54
+      },
+      {
+        "id": "c0dff623-9aae-4e45-a19c-06dd164b9ea7",
+        "name": "Espresso",
+        "contents": {
+          "water": 97,
+          "sugar": 0,
+          "fat": 0.2,
+          "dry_matter": 3
+        },
+        "calories_100g": 9
+      },
+      {
+        "id": "aa8ec5dc-fdc3-48d6-907a-ca45628d79f4",
+        "name": "Espressopulver",
+        "contents": {
+          "water": 4.8,
+          "sugar": 1.5,
+          "fat": 13.4,
+          "dry_matter": 95.199997
+        },
+        "calories_100g": 305
+      },
+      {
+        "id": "40f86166-b6ab-4c00-a8cf-0a85176e8020",
+        "name": "Granatapfelsaft",
+        "contents": {
+          "water": 78,
+          "sugar": 20,
+          "fat": 0.2,
+          "dry_matter": 22
+        },
+        "calories_100g": 78
+      },
+      {
+        "id": "b38795be-6a84-456c-8ff6-13e7a5abb10b",
+        "name": "Grüntee",
+        "contents": {
+          "water": 100,
+          "sugar": 0,
+          "fat": 0,
+          "dry_matter": 0
+        },
+        "calories_100g": 1
+      },
+      {
+        "id": "6f3bcb51-8f56-4bf8-a414-ba086a1fed12",
+        "name": "Jasmintee",
+        "contents": {
+          "water": 100,
+          "sugar": 0,
+          "fat": 0,
+          "dry_matter": 0
+        },
+        "calories_100g": 1
+      },
+      {
+        "id": "6142a478-151a-4ef1-ab7a-1c51b299a34b",
+        "name": "Kirschsaft",
+        "contents": {
+          "water": 89.800003,
+          "sugar": 10.2,
+          "fat": 0,
+          "dry_matter": 10.2
+        },
+        "calories_100g": 41
+      },
+      {
+        "id": "9f8bcb28-249f-4815-ae40-b11cbe7c3472",
+        "name": "Limettensaft",
+        "contents": {
+          "water": 78,
+          "sugar": 15.3,
+          "fat": 2,
+          "dry_matter": 22
+        },
+        "calories_100g": 92
+      },
+      {
+        "id": "ff8c8e6e-b8fc-4fb9-98b1-9b5307bb0c31",
+        "name": "Matcha",
+        "contents": {
+          "water": 5,
+          "sugar": 0,
+          "fat": 5.3,
+          "dry_matter": 95
+        },
+        "calories_100g": 324
+      },
+      {
+        "id": "51544270-6db4-45b0-bb78-be15cc0d83cd",
+        "name": "Matchatee",
+        "contents": {
+          "water": 100,
+          "sugar": 0,
+          "fat": 0,
+          "dry_matter": 0
+        },
+        "calories_100g": 1
+      },
+      {
+        "id": "22cbe30b-f340-4955-8716-7bf12e336c14",
+        "name": "Mokka",
+        "contents": {
+          "water": 97,
+          "sugar": 0,
+          "fat": 0.2,
+          "dry_matter": 3
+        },
+        "calories_100g": 9
+      },
+      {
+        "id": "a5ea34e2-488f-4ea4-96f3-ad3a57c65dfb",
+        "name": "Multivitaminsaft",
+        "contents": {
+          "water": 90,
+          "sugar": 10,
+          "fat": 0.15,
+          "dry_matter": 10
+        },
+        "calories_100g": 38
+      },
+      {
+        "id": "f332e91a-0698-432b-85d2-339030f95a0b",
+        "name": "Orangensaft",
+        "contents": {
+          "water": 88,
+          "sugar": 8.8,
+          "fat": 0.2,
+          "dry_matter": 12
+        },
+        "calories_100g": 45
+      },
+      {
+        "id": "b45e574e-93b1-4534-8c95-8c6ea6303b50",
+        "name": "Pfefferminztee",
+        "contents": {
+          "water": 100,
+          "sugar": 0,
+          "fat": 0,
+          "dry_matter": 0
+        },
+        "calories_100g": 1
+      },
+      {
+        "id": "3fb04cb3-5b71-471b-a4de-47e04c7cd6ae",
+        "name": "Pfirsich. frisch",
+        "contents": {
+          "water": 87,
+          "sugar": 8,
+          "fat": 0.1,
+          "dry_matter": 13
+        },
+        "calories_100g": 41
+      },
+      {
+        "id": "4c3f054e-0bb9-4ccd-974f-28dc010d42a8",
+        "name": "Quittensaft",
+        "contents": {
+          "water": 90.599998,
+          "sugar": 7,
+          "fat": 0,
+          "dry_matter": 9.4
+        },
+        "calories_100g": 40
+      },
+      {
+        "id": "30ce2eb8-e7c2-4a70-9652-c62cffd60958",
+        "name": "Red Bull",
+        "contents": {
+          "water": 89.900002,
+          "sugar": 10,
+          "fat": 0.1,
+          "dry_matter": 10.1
+        },
+        "calories_100g": 192
+      },
+      {
+        "id": "e1c5c41c-5fbd-4eff-afae-900201186c93",
+        "name": "Sanddornsaft",
+        "contents": {
+          "water": 88.400002,
+          "sugar": 6,
+          "fat": 2.3,
+          "dry_matter": 11.6
+        },
+        "calories_100g": 54
+      },
+      {
+        "id": "523b30a6-90fa-4523-a29c-f3699b52dbd3",
+        "name": "Tonic water",
+        "contents": {
+          "water": 91,
+          "sugar": 9,
+          "fat": 0,
+          "dry_matter": 9
+        },
+        "calories_100g": 38
+      },
+      {
+        "id": "5ad4a1a7-33d3-439c-acfe-b1a316bd0efc",
+        "name": "Wasser",
+        "contents": {
+          "water": 100,
+          "sugar": 0,
+          "fat": 0,
+          "dry_matter": 0
+        },
+        "calories_100g": 0
+      },
+      {
+        "id": "48fb3fe6-81ad-4e7a-8e64-deb70fa5e37f",
+        "name": "Zitronensaft",
+        "contents": {
+          "water": 90,
+          "sugar": 3.5,
+          "fat": 0.5,
+          "dry_matter": 10
+        },
+        "calories_100g": 37
+      }
+    ]
+  },
+  "Eggs": {
+    "items": [
+      {
+        "id": "83940959-32ed-418b-9cc4-755fd5aaa8dc",
+        "name": "Eier",
+        "contents": {
+          "water": 74,
+          "sugar": 0.7,
+          "fat": 11,
+          "dry_matter": 26
+        },
+        "calories_100g": 154
+      },
+      {
+        "id": "fb73cfbb-fab7-47a6-be76-637b89717e70",
+        "name": "Eigelb",
+        "contents": {
+          "water": 50,
+          "sugar": 0.3,
+          "fat": 31.9,
+          "dry_matter": 50
+        },
+        "calories_100g": 348
+      },
+      {
+        "id": "9f675a7a-71a2-4c47-a4de-0c390804c7f9",
+        "name": "Eiweißpulver",
+        "contents": {
+          "water": 9.8,
+          "sugar": 0,
+          "fat": 0.5,
+          "dry_matter": 90.199997
+        },
+        "calories_100g": 357
+      }
+    ]
+  },
+  "Other": {
+    "items": [
+      {
+        "id": "86d8ca24-4c75-4043-83fa-d66e9ba490d4",
+        "name": "Balsamico",
+        "contents": {
+          "water": 83,
+          "sugar": 15,
+          "fat": 0,
+          "dry_matter": 17
+        },
+        "calories_100g": 88
+      },
+      {
+        "id": "68f11c8a-cf5f-4cab-bd04-04f68118415b",
+        "name": "Crumble",
+        "contents": {
+          "water": 5,
+          "sugar": 43,
+          "fat": 23,
+          "dry_matter": 95
+        },
+        "calories_100g": 500
+      },
+      {
+        "id": "f5fb934b-6011-4003-98ca-ca540297985e",
+        "name": "Forelle geräuchert",
+        "contents": {
+          "water": 73,
+          "sugar": 0,
+          "fat": 3.6,
+          "dry_matter": 27
+        },
+        "calories_100g": 120
+      },
+      {
+        "id": "4064265b-52e9-4d9d-aace-48319babe551",
+        "name": "Kürbiskernöl",
+        "contents": {
+          "water": 0,
+          "sugar": 0,
+          "fat": 100,
+          "dry_matter": 100
+        },
+        "calories_100g": 884
+      }
+    ]
+  }
+}

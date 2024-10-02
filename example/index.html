@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Catalog Viewer</title>
+
+    <!-- Load the Go WebAssembly runtime -->
+    <script src="http://localhost:8001/static/wasm_exec.js"></script>
+
+    <!-- Load the generated JavaScript entities -->
+    <script src="http://localhost:8001/static/entities.js"></script>
+
+    <script>
+        // WebAssembly Module Wrapper
+        class WasmClient {
+            constructor() {
+                this.wasmModule = null;
+            }
+
+            // Initialize the WebAssembly module and expose the available functions
+            async init() {
+                const go = new Go();
+
+                const wasmModule = await WebAssembly.instantiateStreaming(fetch('http://localhost:8001/static/main.wasm'), go.importObject);
+                go.run(wasmModule.instance);
+
+                this.wasmModule = window; // Expose the global window where Go sets its functions
+
+                // Return a promise that resolves when the Wasm module is ready
+                return new Promise((resolve) => {
+                    setTimeout(() => resolve(this), 500); // Small delay to ensure everything is ready
+                });
+            }
+
+            // Helper method to call the WebAssembly function fetchStockCatalog
+            async fetchStockCatalog() {
+                if (!this.wasmModule.fetchStockCatalog) {
+                    throw new Error("fetchStockCatalog is not available in the Wasm module");
+                }
+
+                const result = await this.wasmModule.fetchStockCatalog();
+                return JSON.parse(result);  // Return the parsed JSON
+            }
+        }
+
+        // Initialize WebAssembly and interact with it
+        async function loadAndUseWasm() {
+            const wasmClient = new WasmClient();
+            await wasmClient.init();
+
+            try {
+                const stockCatalog = await wasmClient.fetchStockCatalog();
+                displayStockCatalog(stockCatalog);  // Display the fetched data
+            } catch (error) {
+                console.error('Error using WebAssembly:', error);
+                document.getElementById('catalog').innerText = 'Failed to load stock catalog.';
+            }
+        }
+
+        // Display the stock catalog data in the HTML using JS Entities
+        function displayStockCatalog(data) {
+            const catalogDiv = document.getElementById('catalog');
+            catalogDiv.innerHTML = '';  // Clear any existing content
+
+            // Create a StockCatalog instance using the generated JS class
+            const stockCatalog = new StockCatalog(data.categories);
+
+            // Iterate over categories and items
+            for (const categoryName in stockCatalog.categories) {
+                const category = stockCatalog.categories[categoryName];
+
+                // Create a header for each category
+                const categoryHeader = document.createElement('h3');
+                categoryHeader.textContent = categoryName;
+                catalogDiv.appendChild(categoryHeader);
+
+                // Create a list of items under each category
+                const itemList = document.createElement('ul');
+                category.items.forEach(item => {
+                    const itemElement = document.createElement('li');
+                    itemElement.textContent = `${item.name} (Calories per 100g: ${item.calories_100g})`;
+                    itemList.appendChild(itemElement);
+                });
+
+                catalogDiv.appendChild(itemList);
+            }
+        }
+
+        // Load WebAssembly and use the exposed functions when the page loads
+        window.onload = loadAndUseWasm;
+    </script>
+</head>
+<body>
+<h1>Stock Catalog Viewer</h1>
+<div id="catalog">
+    <p>Loading stock catalog...</p>
+</div>
+</body>
+</html>

@@ -1,0 +1,6 @@
+### Test the stock-catalog endpoint
+GET http://localhost:8001/stock-catalog
+
+
+### Test the hello endpoint
+GET http://localhost:8001/hello
